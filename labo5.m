@@ -5,3 +5,5 @@ BO = tf(K,[T 0]);
 BO.outputd = tm;
 %margin(BO)
 nyquist(BO);
+disp("modif");
+
